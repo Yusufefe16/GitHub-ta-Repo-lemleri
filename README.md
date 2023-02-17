@@ -1,8 +1,8 @@
 # GitHub-ta-Repo-lemleri
 GitHub'ta Repo İşlemleri
 # Installation
-Öncelikle projeyi clonelayın. 
-git clone [https://github.com/demirilayda/kodluyoruzilkrepo.git](https://github.com/Yusufefe16/GitHub-ta-Repo-lemleri/blob/main/repo.jpg)
+
+git clone https://github.com/demirilayda/kodluyoruzilkrepo.git
 
 ## Usage
 
