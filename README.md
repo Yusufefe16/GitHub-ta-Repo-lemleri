@@ -2,7 +2,7 @@
 GitHub'ta Repo İşlemleri
 # Installation
 
-git clone https://github.com/demirilayda/kodluyoruzilkrepo.git
+git clone https://github.com/Yusufefe16/GitHub-ta-Repo-lemleri/blob/main/repo.jpg
 
 ## Usage
 
